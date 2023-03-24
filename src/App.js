@@ -35,7 +35,7 @@ function App() {
   return (
     <>
      <Header/>
-     <Header1 />   
+     {/* <Header1 />    */}
     <Navbar/>
     <Navbar1 />
     {/* <Sample/> */}
